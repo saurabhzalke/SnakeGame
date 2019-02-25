@@ -1,2 +1,0 @@
-# SnakeGame
- Classic snake game.
