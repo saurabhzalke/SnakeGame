@@ -1,2 +1,2 @@
 # SnakeGame
- Classic snake game.
+ Classic snake game built using C++.
